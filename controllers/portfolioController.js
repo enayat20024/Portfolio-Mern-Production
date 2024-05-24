@@ -1,5 +1,5 @@
 // controllers/portfolioController.js
-const ContactMessage = require("../models/ContactMessage");
+const ContactMessage = require("../Models/ContactMessage");
 
 const sendEmailController = async (req, res) => {
   try {
