@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.042e79aa.css",
+    "main.js": "/static/js/main.35b51347.js",
+    "static/media/IMG-20240117-WA0014.jpg": "/static/media/IMG-20240117-WA0014.bf55bc2767c0c9ae538e.jpg",
+    "static/media/about.jpg": "/static/media/about.bf55bc2767c0c9ae538e.jpg",
+    "static/media/testimonial3.png": "/static/media/testimonial3.b5cdfb69811df614cf7c.png",
+    "static/media/testimonial1.png": "/static/media/testimonial1.d1f4c6606ff8f7e7fea8.png",
+    "static/media/testimonial2.png": "/static/media/testimonial2.b4d0ec19abaf59e7e110.png",
+    "static/media/Enayat_CV.pdf": "/static/media/Enayat_CV.636333afe52315102e59.pdf",
+    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "/index.html",
+    "main.042e79aa.css.map": "/static/css/main.042e79aa.css.map",
+    "main.35b51347.js.map": "/static/js/main.35b51347.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.042e79aa.css",
+    "static/js/main.35b51347.js"
+  ]
+}
