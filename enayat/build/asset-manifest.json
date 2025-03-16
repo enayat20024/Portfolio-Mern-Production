@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.7209bb05.css",
-    "main.js": "/static/js/main.a37156d7.js",
-    "static/media/other-one.jpg": "/static/media/other-one.c82b699f35eaf30b00cb.jpg",
-    "static/media/Artis-logo.png": "/static/media/Artis-logo.a62b63f5c6b3904d1c4d.png",
-    "static/media/work2.png": "/static/media/work2.30e7f1a1f4d2c4dc095a.png",
+    "main.css": "/static/css/main.0e40be48.css",
+    "main.js": "/static/js/main.35b51347.js",
+    "static/media/IMG-20240117-WA0014.jpg": "/static/media/IMG-20240117-WA0014.bf55bc2767c0c9ae538e.jpg",
     "static/media/about.jpg": "/static/media/about.bf55bc2767c0c9ae538e.jpg",
     "static/media/testimonial3.png": "/static/media/testimonial3.b5cdfb69811df614cf7c.png",
     "static/media/testimonial1.png": "/static/media/testimonial1.d1f4c6606ff8f7e7fea8.png",
-    "static/media/Enayat_CV.pdf": "/static/media/Enayat_CV.a930486792a814d4f620.pdf",
     "static/media/testimonial2.png": "/static/media/testimonial2.b4d0ec19abaf59e7e110.png",
-    "static/media/work.jpeg": "/static/media/work.7adf3fa1200862b46b44.jpeg",
+    "static/media/Enayat_CV.pdf": "/static/media/Enayat_CV.636333afe52315102e59.pdf",
+    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
     "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
     "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
     "index.html": "/index.html",
-    "main.7209bb05.css.map": "/static/css/main.7209bb05.css.map",
-    "main.a37156d7.js.map": "/static/js/main.a37156d7.js.map"
+    "main.0e40be48.css.map": "/static/css/main.0e40be48.css.map",
+    "main.35b51347.js.map": "/static/js/main.35b51347.js.map"
   },
   "entrypoints": [
-    "static/css/main.7209bb05.css",
-    "static/js/main.a37156d7.js"
+    "static/css/main.0e40be48.css",
+    "static/js/main.35b51347.js"
   ]
 }
