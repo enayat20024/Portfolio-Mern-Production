@@ -20,14 +20,14 @@ app.use(express.json());
 
 // static fiels access
 
-app.use(express.static(path.join(__dirname, "./enayat/build")));
+// app.use(express.static(path.join(__dirname, "./enayat/build")));
 
 // Routes
 app.use("/api/v1/portfolio", require("./routes/portfolioRoute"));
 
-app.get("*", function (req, res) {
-  res.sendFile(path.join(__dirname, "./enayat/build/index.html"));
-});
+// app.get("*", function (req, res) {
+//   res.sendFile(path.join(__dirname, "./enayat/build/index.html"));
+// });
 
 // Port
 const PORT = process.env.PORT || 8080;
